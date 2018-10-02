@@ -1,12 +1,25 @@
 {
   "name": "fork-timer",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A timer that forks a process and emits an event.",
   "main": "src/Timeout.js",
   "scripts": {
     "start": "node src/Timeout.js",
     "test": "node test.js"
   },
+  "github": "https://github.com/NotWeeb/fork-timer",
   "author": "kyrolites",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotWeeb/fork-timer.git"
+  },
+  "keywords": [
+    "timeout",
+    "timer"
+  ],
+  "bugs": {
+    "url": "https://github.com/NotWeeb/fork-timer/issues"
+  },
+  "homepage": "https://github.com/NotWeeb/fork-timer#readme"
 }
