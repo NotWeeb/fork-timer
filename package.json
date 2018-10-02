@@ -1,0 +1,12 @@
+{
+  "name": "fork-timer",
+  "version": "1.0.2",
+  "description": "A timer that forks a process and emits an event.",
+  "main": "src/Timeout.js",
+  "scripts": {
+    "start": "node src/Timeout.js",
+    "test": "node test.js"
+  },
+  "author": "kyrolites",
+  "license": "ISC"
+}
