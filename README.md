@@ -2,7 +2,7 @@
 A timer that forks a process and emits an event.
 
 ## Installation
-Install by running `npm install fork-timer --save`
+Install by running `npm install fork-timer`
 
 ## Usage
 
